@@ -1,0 +1,18 @@
+In the stock configuration:
+
+Fn+Tab toggles RGB on/off
+
+Fn+Q next mode
+Fn+A previous mode
+
+Fn+W brightness increase
+Fn+S brightness decrease
+
+Fn+E hue increase
+Fn+D hue decrease
+
+Fn+R saturation increase
+Fn+F saturation decrease
+
+Fn+T speed increase
+Fn+G speed decrease
